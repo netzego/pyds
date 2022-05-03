@@ -1,4 +1,4 @@
-Data structures in python.
+Common data structures in python.
 
 ## Resources
 
