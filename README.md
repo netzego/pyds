@@ -1,1 +1,6 @@
-A skeleton for python projects with [poetry](https://python-poetry.org/) in a [makefile](https://www.gnu.org/software/make/).
+Data structures in python.
+
+## Resources
+
+* https://realpython.com/products/python-tricks-book/
+* https://realpython.com/python-data-structures/

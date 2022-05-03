@@ -1,5 +1,5 @@
-import pyskel
+import pyds
 
 
 def test_version():
-    assert pyskel.__version__ == (0, 0, 0)
+    assert pyds.__version__ == (0, 0, 0)
